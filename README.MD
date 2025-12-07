@@ -58,18 +58,18 @@ Supports multiple Messe Berlin trade fair websites with a consistent HTML struct
 
 **Note:** *The following partial list includes Messe Berlin exhibitor directory URLs that have been tested so far. Other Messe Berlin or different events with the same website structure may also be supported.*
 
-- [CMS Berlin Exhibitor List - plus.cms-berlin.de](https://plus.cms-berlin.de/showfloor/organizations)
+- [CMS Berlin Exhibitor List – plus.cms-berlin.de](https://plus.cms-berlin.de/showfloor/organizations)
 
-- [DMEA Exhibitor List - plus.dmea.de](https://plus.dmea.de/showfloor/organizations)
+- [DMEA Exhibitor List – plus.dmea.de](https://plus.dmea.de/showfloor/organizations)
 
-- [European Coatings Show Exhibitor List - digital.european-coatings-show.com](https://digital.european-coatings-show.com/showfloor/organizations)
+- [European Coatings Show Exhibitor List – digital.european-coatings-show.com](https://digital.european-coatings-show.com/showfloor/organizations)
 
-- [Fruit Logistica Exhibitor List - online.fruitlogistica.com](https://online.fruitlogistica.com/showfloor/organizations)
+- [Fruit Logistica Exhibitor List – online.fruitlogistica.com](https://online.fruitlogistica.com/showfloor/organizations)
 
-- [IAA Transportation Exhibitor List - exhibitors.iaa-transportation.com](https://exhibitors.iaa-transportation.com/showfloor/organizations)
+- [IAA Transportation Exhibitor List – exhibitors.iaa-transportation.com](https://exhibitors.iaa-transportation.com/showfloor/organizations)
 
-- [ITB Berlin Exhibitor List - navigate.itb.com](https://navigate.itb.com/showfloor/organizations)
+- [ITB Berlin Exhibitor List – navigate.itb.com](https://navigate.itb.com/showfloor/organizations)
 
-- [Smart Country Convention Exhibitor List - online.smartcountry.berlin](https://online.smartcountry.berlin/showfloor/organizations)
+- [Smart Country Convention Exhibitor List – online.smartcountry.berlin](https://online.smartcountry.berlin/showfloor/organizations)
 
-- [Spielwarenmesse Exhibitor List - digital.spielwarenmesse.de](https://digital.spielwarenmesse.de/showfloor/organizations)
+- [Spielwarenmesse Exhibitor List – digital.spielwarenmesse.de](https://digital.spielwarenmesse.de/showfloor/organizations)
