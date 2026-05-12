@@ -58,6 +58,10 @@ Supports multiple **Messe Berlin** trade fair websites with a consistent HTML st
 
 - [Deutsche Messe Exhibitor List Scraper](https://apify.com/skython/deutsche-messe-exhibitor-list-scraper)
 
+- [Newfront Exhibitor List Scraper](https://apify.com/skython/newfront-exhibitor-list-scraper)
+
+- [Goeshow Exhibitor List Scraper](https://apify.com/skython/goeshow-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -89,3 +93,5 @@ Supports multiple **Messe Berlin** trade fair websites with a consistent HTML st
 - [Smart Country Convention Exhibitor List – online.smartcountry.berlin](https://online.smartcountry.berlin/showfloor/organizations)
 
 - [Spielwarenmesse Exhibitor List – digital.spielwarenmesse.de](https://digital.spielwarenmesse.de/showfloor/organizations)
+
+- [InnoTrans Exhibitor List – plus.innotrans.de](https://plus.innotrans.de/showfloor/organizations)
